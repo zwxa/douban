@@ -1,6 +1,7 @@
 # douban
 
 > 仿豆瓣电影app
+> www.zwenx.cn:9090 预览
 
 ## Build Setup
 
