@@ -5,7 +5,9 @@
         <div class="location">北京</div>
         <div class="search">
           <span><i class=" icon-search"></i></span>
-          <input type="text" name="search" placeholder="电影/电视剧/影人" @click="selectInput">
+          <div @click="selectInput">
+          <input type="text" name="search" placeholder="电影/电视剧/影人"  disabled="disabled">
+          </div>
         </div>
       </div>
     </header>
